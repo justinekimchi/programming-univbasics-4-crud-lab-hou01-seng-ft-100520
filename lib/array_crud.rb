@@ -43,5 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   lab_example=["wow","I", "am","really","learning", "arrays!"]
-  lab_example[1]
+  lab_example[4]="totally"
 end
